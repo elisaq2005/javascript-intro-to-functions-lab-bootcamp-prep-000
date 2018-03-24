@@ -1,4 +1,6 @@
 function shout(string) {
   return string.toUpperCase()
 }
-function
+function wisper(string) {
+  return string.toLowerCase()
+}
